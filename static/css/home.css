@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+body {
+    margin: 0 auto;
+    background-color: #edc12b;
+}
+
+h1 {
+    padding-top: 2%;
+    padding-left: 5%;
+    font-size: 50px;
+    color: #ee7b72;
+    margin-bottom: auto;
+}
